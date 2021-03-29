@@ -1,5 +1,23 @@
 ## Source-Han-Mono-Powerline
 
+> Update：
+> 由于黑心的 Github 对 Git LFS 的流量进行了限制，目前大文件基本已经无法顺利的通过 Git 仓库来下载了，因此将对应的文件放到了对象存储中：
+> [Bold](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-Bold.ttf) 
+> [BoldIt](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-BoldIt.ttf)
+> [ExtraLight](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-ExtraLight.ttf)
+> [ExtraLightIt](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-ExtraLightIt.ttf)
+> [Heavy](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-Heavy.ttf)
+> [HeavyIt](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-HeavyIt.ttf)
+> [Light](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-Light.ttf)
+> [LightIt](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-LightIt.ttf)
+> [Medium](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-Medium.ttf)
+> [MediumIt](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-MediumIt.ttf)
+> [Normal](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-Normal.ttf)
+> [NormalIt](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-NormalIt.ttf)
+> [Regular](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-Regular.ttf)
+> [RegularIt](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC-RegularIt.ttf)
+> [TTC](http://gaomingfei.cn-sh2.ufileos.com/Source-Han-Mono-Powerline/SourceHanMonoPowerlineSC.ttc)
+
 ### 背景
 对于编程等应用来说，很需要一款美观好看的等宽字体，如果只考虑ASCII字符的话，`Consolas`,  `Source Code Pro` 等都是很好的选择，然而这些字体都是不包含中文的。为了能用一个统一的字体优雅的显示中英文，出现了`YaHei Consolas Hybrid`， `Source Han Mono` 等混合字体。另一方面，`zsh` 等终端扩展软件又使用了 `Powerline` 字符，因此又产生了很多加上 `Powerline` Patch 的字体，如 [powerline/fonts](https://github.com/powerline/fonts) 中这些。然而目前我没找到一款能很好的同时支持中文和 `Powerline` 的字体，所以干脆自己做了一个出来。
 
